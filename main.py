@@ -27,7 +27,7 @@ if fp == 1:
             print(f'\033[1;30;44m-= O valor total da sua compra é R${total:.2f} parcelado em 2x de R${parcela:.2f} com 14% de Juros =- \033[m')
         elif v ==3:
             total = valor1 + (valor1 * 21/100)
-            parcela = total/2
+            parcela = total/3
             print(f'\033[1;30;44m-= O valor total da sua compra é R${total:.2f} parcelado em 3x de R${parcela:.2f} com 21% de Juros =- \033[m')
         else:
             print('Total de parcelas inválidas')
