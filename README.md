@@ -1,3 +1,3 @@
 ## Demonstração
 
-![Demonstração do programa](demonstração)
+![Demonstração do programa](demonstração.png)
